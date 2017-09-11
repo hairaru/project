@@ -3,7 +3,7 @@
     "name" : "Nom du Thème", 
     "keyWords" : "test",
     "version" : "1.0.0",
-    "dofusVersion" : "2.32", 
+    "dofusVersion" : "2.43", 
     "description" : "Description de mon thème", 
     "url" : "https://github.com/hairaru/project/blob/master/Tsuki.zip?raw=true",
     "previewUrl" : "", 
