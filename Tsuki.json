@@ -1,0 +1,12 @@
+ {
+    "author" : "kuro", 
+    "name" : "Nom du Thème", 
+    "keyWords" : "keyword1,keyword2",
+    "version" : "1.0.0",
+    "dofusVersion" : "2.32", 
+    "description" : "Description de mon thème", 
+    "url" : "D:\Ankama\Dofus Beta\app\content\themes\Tsuki\Tsuki.rar",
+    "previewUrl" : "", 
+    "creationDate" : "JJ/MM/AAAA", 
+    "modificationDate" : "JJ/MM/AAAA"
+    } 
