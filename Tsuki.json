@@ -1,12 +1,13 @@
- {
+[ {
     "author" : "kuro", 
     "name" : "Nom du Thème", 
     "keyWords" : "test",
     "version" : "1.0.0",
     "dofusVersion" : "2.32", 
     "description" : "Description de mon thème", 
-    "url" : "https://github.com/hairaru/project/raw/master/Tsuki.rar",
+    "url" : "https://github.com/hairaru/project/blob/master/Tsuki.zip?raw=true",
     "previewUrl" : "", 
     "creationDate" : "test", 
     "modificationDate" : "test"
     } 
+ ]
